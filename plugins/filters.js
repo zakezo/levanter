@@ -44,7 +44,7 @@ bot(
   }
 )
 
-bot({ on: 'text', fromMe: false, type: 'filterOrLydia' }, async (message) => {
+bot({ on: 'text', fromMe: false, type: 'filterOrELITA-BOT' }, async (message) => {
   const filters = await getFilter(message.jid, message.id)
 
   for (const { pattern, text } of filters) {

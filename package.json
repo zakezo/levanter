@@ -1,12 +1,12 @@
 {
-  "name": "levanter",
+  "name": "ELITA-BOT",
   "version": "4.2.1",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start . --attach --name levanter",
-    "docker": "pm2-runtime start . --name levanter",
-    "stop": "pm2 stop levanter",
+    "start": "pm2 start . --attach --name ELITA-BOT",
+    "docker": "pm2-runtime start . --name ELITA-BOT",
+    "stop": "pm2 stop ELITA-BOT",
     "postinstall": "node -e \"try { require('sharp') } catch (e) { process.exit(1); }\" || yarn add --ignore-engines sharp@0.33.5"
   },
   "author": "",

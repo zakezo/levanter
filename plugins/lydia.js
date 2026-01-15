@@ -1,4 +1,4 @@
-const { setLydia, bot } = require('../lib/')
+const { setELITA-BOT, bot } = require('../lib/')
 
 bot(
   {
@@ -15,9 +15,9 @@ bot(
     if (message.mention) {
       match = match.replace(`@${jidToNum(user)}`, '').trim()
     }
-    await setLydia(message.jid, match == 'on', user, message.id)
+    await setELITA-BOT(message.jid, match == 'on', user, message.id)
     await message.send(
-      `_Lydia ${match == 'on' ? 'Activated' : 'Deactivated'}_\n*Only works from reply msg.`
+      `_ELITA-BOT ${match == 'on' ? 'Activated' : 'Deactivated'}_\n*Only works from reply msg.`
     )
   }
 )
