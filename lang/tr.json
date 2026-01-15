@@ -31,7 +31,7 @@
     },
     "menu": {
       "help": "```╭────────────────╮\n      ʟᴇᴠᴀɴᴛᴇʀ\n╰────────────────╯\n\n╭────────────────\n│ Önek : {0}\n│ Kullanıcı : {1}\n│ Zaman : {2}\n│ Gün : {3}\n│ Tarih : {4}\n│ Sürüm : {5}\n│ Eklentiler : {6}\n│ Ram : {7}\n│ Çalışma Süresi : {8}\n│ Platform : {9}\n╰────────────────```",
-      "menu": "```╭═══ LEVANTER ═══⊷\n┃❃╭──────────────\n┃❃│ Önek : {0}\n┃❃│ Kullanıcı : {1}\n┃❃│ Zaman : {2}\n┃❃│ Gün : {3}\n┃❃│ Tarih : {4}\n┃❃│ Sürüm : {5}\n┃❃│ Eklentiler : {6}\n┃❃│ Ram : {7}\n┃❃│ Çalışma Süresi : {8}\n┃❃│ Platform : {9}\n┃❃╰───────────────\n╰═════════════════⊷```"
+      "menu": "```╭═══ ELITA-BOT ═══⊷\n┃❃╭──────────────\n┃❃│ Önek : {0}\n┃❃│ Kullanıcı : {1}\n┃❃│ Zaman : {2}\n┃❃│ Gün : {3}\n┃❃│ Tarih : {4}\n┃❃│ Sürüm : {5}\n┃❃│ Eklentiler : {6}\n┃❃│ Ram : {7}\n┃❃│ Çalışma Süresi : {8}\n┃❃│ Platform : {9}\n┃❃╰───────────────\n╰═════════════════⊷```"
     },
     "afk": {
       "example": "> *AFK Kullanımı:*\n- AFK Ayarla: *afk [sebep]*\n- Örnek: *afk meşgulüm* Son görülme #lastseen önce\n- Bir mesaj göndererek otomatik olarak AFK durumu kaldırılır\n- AFK'yı Devre Dışı Bırak: *afk off*",

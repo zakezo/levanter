@@ -31,7 +31,7 @@
     },
     "menu": {
       "help": "```╭────────────────╮\n      ʟᴇᴠᴀɴᴛᴇʀ\n╰────────────────╯\n\n╭────────────────\n│ Préfixe : {0}\n│ Utilisateur : {1}\n│ Heure : {2}\n│ Jour : {3}\n│ Date : {4}\n│ Version : {5}\n│ Plugins : {6}\n│ RAM : {7}\n│ Temps d'activité : {8}\n│ Plateforme : {9}\n╰────────────────```",
-      "menu": "```╭═══ LEVANTER ═══⊷\n┃❃╭──────────────\n┃❃│ Préfixe : {0}\n┃❃│ Utilisateur : {1}\n┃❃│ Heure : {2}\n┃❃│ Jour : {3}\n┃❃│ Date : {4}\n┃❃│ Version : {5}\n┃❃│ Plugins : {6}\n┃❃│ RAM : {7}\n┃❃│ Temps d'activité : {8}\n┃❃│ Plateforme : {9}\n┃❃╰───────────────\n╰═════════════════⊷```"
+      "menu": "```╭═══ ELITA-BOT ═══⊷\n┃❃╭──────────────\n┃❃│ Préfixe : {0}\n┃❃│ Utilisateur : {1}\n┃❃│ Heure : {2}\n┃❃│ Jour : {3}\n┃❃│ Date : {4}\n┃❃│ Version : {5}\n┃❃│ Plugins : {6}\n┃❃│ RAM : {7}\n┃❃│ Temps d'activité : {8}\n┃❃│ Plateforme : {9}\n┃❃╰───────────────\n╰═════════════════⊷```"
     },
     "afk": {
       "example": "> *Utilisation de AFK :*\n- Définir AFK : *afk [raison]*\n- Exemple : *afk Je suis occupé* Dernière vue il y a #lastseen\n- L'envoi d'un message supprime automatiquement le statut AFK\n- Désactiver AFK : *afk off*",

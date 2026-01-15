@@ -31,7 +31,7 @@
     },
     "menu": {
       "help": "```╭────────────────╮\n      ʟᴇᴠᴀɴᴛᴇʀ\n╰────────────────╯\n\n╭────────────────\n│ Prefix : {0}\n│ User : {1}\n│ Time : {2}\n│ Day : {3}\n│ Date : {4}\n│ Version : {5}\n│ Plugins : {6}\n│ Ram : {7}\n│ Uptime : {8}\n│ Platform : {9}\n╰────────────────```",
-      "menu": "```╭═══ LEVANTER ═══⊷\n┃❃╭──────────────\n┃❃│ Prefix : {0}\n┃❃│ User : {1}\n┃❃│ Time : {2}\n┃❃│ Day : {3}\n┃❃│ Date : {4}\n┃❃│ Version : {5}\n┃❃│ Plugins : {6}\n┃❃│ Ram : {7}\n┃❃│ Uptime : {8}\n┃❃│ Platform : {9}\n┃❃╰───────────────\n╰═════════════════⊷```"
+      "menu": "```╭═══ ELITA-BOT ═══⊷\n┃❃╭──────────────\n┃❃│ Prefix : {0}\n┃❃│ User : {1}\n┃❃│ Time : {2}\n┃❃│ Day : {3}\n┃❃│ Date : {4}\n┃❃│ Version : {5}\n┃❃│ Plugins : {6}\n┃❃│ Ram : {7}\n┃❃│ Uptime : {8}\n┃❃│ Platform : {9}\n┃❃╰───────────────\n╰═════════════════⊷```"
     },
     "afk": {
       "example": "> *AFK Ka Istemal:*\n- AFK set karo: *afk [reason]*\n- Example: *afk Mein busy hoon* Last seen #lastseen pehle\n- Message bhejne se AFK status khud hi hat jayega\n- AFK band karo: *afk off*",

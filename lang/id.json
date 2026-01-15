@@ -31,7 +31,7 @@
     },
     "menu": {
       "help": "```╭────────────────╮\n      ʟᴇᴠᴀɴᴛᴇʀ\n╰────────────────╯\n\n╭────────────────\n│ Prefix : {0}\n│ Pengguna : {1}\n│ Waktu : {2}\n│ Hari : {3}\n│ Tanggal : {4}\n│ Versi : {5}\n│ Plugin : {6}\n│ Ram : {7}\n│ Uptime : {8}\n│ Platform : {9}\n╰────────────────```",
-      "menu": "```╭═══ LEVANTER ═══⊷\n┃❃╭──────────────\n┃❃│ Prefix : {0}\n┃❃│ Pengguna : {1}\n┃❃│ Waktu : {2}\n┃❃│ Hari : {3}\n┃❃│ Tanggal : {4}\n┃❃│ Versi : {5}\n┃❃│ Plugin : {6}\n┃❃│ Ram : {7}\n┃❃│ Uptime : {8}\n┃❃│ Platform : {9}\n┃❃╰───────────────\n╰═════════════════⊷```"
+      "menu": "```╭═══ ELITA-BOT ═══⊷\n┃❃╭──────────────\n┃❃│ Prefix : {0}\n┃❃│ Pengguna : {1}\n┃❃│ Waktu : {2}\n┃❃│ Hari : {3}\n┃❃│ Tanggal : {4}\n┃❃│ Versi : {5}\n┃❃│ Plugin : {6}\n┃❃│ Ram : {7}\n┃❃│ Uptime : {8}\n┃❃│ Platform : {9}\n┃❃╰───────────────\n╰═════════════════⊷```"
     },
     "afk": {
       "example": "> *Cara Pakai AFK:*\n- Set AFK: *afk [alasan]*\n- Contoh: *afk Saya sibuk* Terakhir terlihat #lastseen yang lalu\n- Mengirim pesan otomatis menghapus status AFK\n- Matikan AFK: *afk off*",
